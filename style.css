@@ -2,26 +2,20 @@
   margin: 0;
   padding: 0;
   background-color: #fcf5e5;
-<<<<<<< HEAD
   max-width: 1440px;
   box-sizing: border-box;
-=======
- 
->>>>>>> upstream/main
 }
-
-
 
 /* logo */
-.logo{
-    background-color: #fefdfa;
+.logo {
+  background-color: #fefdfa;
 
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  text-align: center;
 }
 
-.logo img{
- background-color:  #fefdfa;
+.logo img {
+  background-color: #fefdfa;
 }
 
 /* profile */
@@ -33,9 +27,7 @@
   padding-bottom: 20px;
   padding-top: 50px;
   padding-left: 80px;
-
 }
-
 
 .avatar {
   width: 190px;
@@ -168,13 +160,12 @@ main {
   border-radius: 15px;
 }
 
-
 .lower-section {
-     width: 32%;
-     display: flex;
-     gap: 25px; 
-     margin-top: 80px;
-} 
+  width: 32%;
+  display: flex;
+  gap: 25px;
+  margin-top: 80px;
+}
 
 /* /images */
 .img-1 img,
@@ -183,7 +174,7 @@ main {
 .img-4 img,
 .img-5 img,
 .img-6 img {
-    border-radius: 15px
+  border-radius: 15px;
 }
 
 .desc p {
@@ -195,28 +186,26 @@ main {
 .Name-heart p {
   color: rgba(33, 33, 33, 1);
   font-weight: 500;
-  font-size: 17px;  
+  font-size: 17px;
 }
 
 .desc {
   width: 100%;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
 }
 
 /* footer */
 hr {
-    margin: auto;
-    width:90%;
+  margin: auto;
+  width: 90%;
 }
 
 .footertext {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-family: "Poppins" sans-serif;
-    font-size: 10px;
-    color: #666460;
-
-
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Poppins" sans-serif;
+  font-size: 10px;
+  color: #666460;
 }
